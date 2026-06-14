@@ -1,6 +1,3 @@
-Markdown
-
-
 # INCIDENT BRIEF: Estabilización Retail X - Temporada Alta
 
 ## 1. Resumen Ejecutivo
